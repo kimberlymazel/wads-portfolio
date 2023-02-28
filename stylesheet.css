@@ -1,0 +1,136 @@
+
+body {
+    background-color: #FFF2F2;
+    font-family: Tahoma, sans-serif;
+}
+
+h1 {
+    line-height: 1.5;
+    font-size: 3rem;
+    color: #343434;
+}
+
+h2 {
+    line-height: 1.5;
+    font-size: 1.5rem;
+    color: #343434;
+}
+
+h3 {
+    font-size: 1.2rem;
+    color: #343434;
+}
+
+h4 {
+    font-size: 1rem;
+    color: #777777;
+    font-weight: lighter;
+}
+
+h5 {
+    text-align: justify;
+    font-size: 1.2rem;
+    font-weight: lighter;
+}
+
+p {
+    font-size: 0.8rem;
+    color: #555555;
+    font-weight: lighter;
+}
+
+
+.aboutme {
+    text-align: center;
+    margin-top: 3em;
+    padding-top: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+}
+
+.pastprojects {
+    padding-top: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.name {
+    color: #7286D3;
+}
+
+.projectskills {
+    padding-top: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.workingon{
+    width: 50%;
+    float: left;
+}
+
+.languages{
+    text-align: right;
+    width: 50%;
+    float: right;
+    margin-bottom: 40px;
+}
+
+.first {
+    width: 33%;
+    float: left;
+}
+
+.second {
+    width: 33%;
+    display: inline-block;
+}
+
+.third {
+    width: 33%;
+    float:right;
+}
+
+
+.button {
+    display: block;
+    padding: 0.8em 1.4em;
+    transition: 0.3s;
+}
+
+.buttontext {
+    font-size: 1.2rem;
+    color: white;
+    background-color: #7286D3;
+    padding: 0.2em 0.5em;
+}
+
+.buttontext:hover {
+    box-shadow: 0 8px 16px 0 darkslateblue;
+}
+
+.card {
+    background-color:#E5E0FF;
+    box-shadow: 0 4px 8px 0 grey;
+    transition: 0.3s;
+    margin: 20px;
+    margin-left: 0px;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 darkslateblue;
+}
+
+.container {
+    padding: 10px 16px;
+}
+
+.contactme {
+    text-align: center;
+    margin-top: 3em;
+    padding-top: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+}
